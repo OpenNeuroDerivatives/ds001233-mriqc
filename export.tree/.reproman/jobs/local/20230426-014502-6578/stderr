@@ -1,0 +1,10 @@
+Warning: Permanently added 'c104-122' (ECDSA) to the list of known hosts.
+WARNING (04/27/23 04:50:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5423856.hostlist.BYvWgXaj to get hosts
+starting job on c104-122
+starting job on c104-123
+starting job on c104-161
+starting job on c104-162
+slurmstepd: error: *** JOB 5423856 ON c104-122 CANCELLED AT 2023-04-27T08:58:11 ***
+Connection to c104-162 closed by remote host.
+Terminated
